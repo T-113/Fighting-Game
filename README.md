@@ -1,2 +1,2 @@
 # Fighting-Game
-Using HTML, CSS, and JS to build a fighting game.
+Using HTML Canvas and JS to build a fighting 2D game.
